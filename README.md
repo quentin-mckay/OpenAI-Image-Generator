@@ -5,7 +5,7 @@ Uses the DALL-E 2 deep learning model by OpenAI to generate images from a text p
 All project code from the [Build an AI Image Generator](https://www.youtube.com/watch?v=fU4o_BKaUZE&t=163s&ab_channel=TraversyMedia) tutorial by Traversy Media.
 
 ## Usage
-`npm run start` to run node server
+`npm start` to run node server
 
 ## Tech Used
 

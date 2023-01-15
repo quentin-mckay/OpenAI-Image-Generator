@@ -7,7 +7,7 @@ const openai = new OpenAIApi(configuration)
 
 
 const generateImage = async (req, res) => {
-    const { prompt, size } = req.body
+    const { prompt, size } = req.body // destructure data from post request body
 
     let imageSize = ''
     switch (size) {
